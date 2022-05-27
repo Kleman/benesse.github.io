@@ -1,5 +1,5 @@
 ---
-title: "L1 - Numerical Methods"
+title: "L3 - Statistics"
 collection: teaching
 type: "Undergraduate, Complete course, Biology"
 permalink: /teaching/2020-Stat_introduction
