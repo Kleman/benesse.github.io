@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Clément Bénesse"
-  avatar           : "/images/profile_picture_oiled.png"
+  avatar           : "profile_picture_oiled.png"
   bio              : "Hi! :)"
   location         : "Toulouse, FR."
   employer         :
