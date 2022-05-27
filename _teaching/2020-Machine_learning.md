@@ -4,9 +4,9 @@ collection: teaching
 type: "Graduate, Practicals, Big Data"
 permalink: /teaching/2020-Machine_learning
 venue: "Université Paul Sabatier"
-datestart: 2020-09-01
+datestart: 2019-09-01
 dateend: 2022-06-30
 location: "Toulouse, FRANCE"
 ---
 
-Practicals given to graduating students for the course *Big Data*, from 2020 to 2022.
+Practicals given to graduating students for the course *Big Data* of the [MAPI3 program](https://departement-math.univ-tlse3.fr/master-mathematiques-appliquees-pour-l-ingenierie-l-industrie-et-l-innovation-mapi3-2).
