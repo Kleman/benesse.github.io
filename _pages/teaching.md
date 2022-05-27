@@ -16,3 +16,8 @@ I had the opportunity to teach the following courses (following the European Hig
 
 - **L1 Computer Science -- Numeric methods**: Practicals, in 2019.
 
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
