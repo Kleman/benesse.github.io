@@ -17,6 +17,6 @@ Date: 13 - 17 June 2022
 Location: Lyon, FR.
 
 
-###Past talks:
+### Past talks:
 
 Complete list coming soon
