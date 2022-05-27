@@ -5,7 +5,7 @@ type: "Graduate, Practicals, Big Data"
 permalink: /teaching/2019-Machine_learning
 venue: "Université Paul Sabatier"
 datestart: 2019-09-01
-dateend: 2022-06-30
+dateend: 2024-06-30
 location: "Toulouse, FRANCE"
 ---
 
