@@ -2,7 +2,7 @@
 title: "M1 - Stochastic Simulations"
 collection: teaching
 type: "Graduate, Practicals"
-permalink: /teaching/2020-Stochastic_simulations
+permalink: /teaching/2020-M1-Stochastic_simulations.md
 venue: "Université Paul Sabatier"
 datestart: 2019-09-01
 dateend: 2022-06-30
