@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Clément Bénesse"
+title                    : "Yet another website"
 title_separator          : "-"
 name                     : &name "Clément Bénesse"
 description              : &description "Hello! Click on me!"

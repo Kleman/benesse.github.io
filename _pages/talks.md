@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Coming talks:
+### Coming talks:
 
  + [GDR MASCOT-NUM 2022](https://mascotnum2022.sciencesconf.org/)  
 Date: 7 - 9 June 2022  
@@ -17,6 +17,6 @@ Date: 13 - 17 June 2022
 Location: Lyon, FR.
 
 
-Past talks:
-======
+###Past talks:
+
 Complete list coming soon
