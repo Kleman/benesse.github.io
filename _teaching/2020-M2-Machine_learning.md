@@ -2,7 +2,7 @@
 title: "M2 - Machine Learning"
 collection: teaching
 type: "Graduate, Practicals, Big Data"
-permalink: /teaching/2020-M2-Machine_learning.md
+permalink: 
 venue: "Université Paul Sabatier"
 datestart: 2019-09-01
 dateend: 2022-06-30
