@@ -7,8 +7,7 @@ redirect_from:
   - /hobbies
   
 gallery:
-  - url: /images/profile_picture_oiled.jpg
-    image_path: /images/hobbies/aquarelle.jpg
+  - image_path: https://kleman.github.io/images/hobbies/aquarelle.jpg
     alt: "placeholder image "
     title: "Watercolors"
   - url: /images/hobbies/brunch.jpg
