@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /hobbies
   
-  gallery:
+gallery:
   - url: /images/hobbies/aquarelle.jpg
     image_path: /images/hobbies/aquarelle.jpg
     alt: "placeholder image "
