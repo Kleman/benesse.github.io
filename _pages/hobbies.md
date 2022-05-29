@@ -28,7 +28,7 @@ gallery:
   - image_path: /hobbies/katsudon.jpg
     alt: "placeholder image "
     title: "Katsudon"
-  - image_path: /hobbies/keyboard.webp
+  - image_path: /hobbies/keyboard.jpg
     alt: "placeholder image "
     title: "A minimalist keyboard"
   - image_path: /hobbies/mozza.jpg
@@ -73,8 +73,6 @@ gallery:
   - image_path: /hobbies/wellington.jpg
     alt: "placeholder image "
     title: "Beef Wellington"
-	
-
 ---
 
 You may find here some pictures related to hobbies (mainly food, let’s be honest).
