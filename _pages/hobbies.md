@@ -10,32 +10,25 @@ gallery:
   - image_path: /hobbies/aquarelle.jpg
     alt: "placeholder image "
     title: "Watercolors"
-  - url: /hobbies/brunch.jpg
-    image_path: /profile_picture_oiled.jpg
+  - image_path: /hobbies/brunch.jpg
     alt: "placeholder image "
     title: "Brunch"
-  - url: /images/hobbies/chair.jpg
-    image_path: /images/hobbies/chair.jpg
+  - image_path: /hobbies/chair.jpg
     alt: "placeholder image "
     title: "Some chair"
-  - url: /images/hobbies/coffee.jpg
-    image_path: /images/hobbies/coffee.jpg
+  - image_path: /hobbies/coffee.jpg
     alt: "placeholder image "
     title: "Afternoon coffee"
-  - url: /images/hobbies/gravlax.jpg
-    image_path: /images/hobbies/gravlax.jpg
+  - image_path: /hobbies/gravlax.jpg
     alt: "placeholder image "
     title: "Gravlax"
-  - url: /images/hobbies/gyozas.jpg
-    image_path: /images/hobbies/gyozas.jpg
+  - image_path: /hobbies/gyozas.jpg
     alt: "placeholder image "
     title: "Gyozas"
-  - url: /images/hobbies/katsudon.jpg
-    image_path: /images/hobbies/katsudon.jpg
+  - image_path: /hobbies/katsudon.jpg
     alt: "placeholder image "
     title: "Katsudon"
-  - url: /images/hobbies/keyboard.jpg
-    image_path: /images/hobbies/keyboard.jpg
+  - image_path: /hobbies/keyboard.jpg
     alt: "placeholder image "
     title: "A minimalist keyboard"
 
