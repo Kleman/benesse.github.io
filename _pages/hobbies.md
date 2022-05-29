@@ -28,9 +28,52 @@ gallery:
   - image_path: /hobbies/katsudon.jpg
     alt: "placeholder image "
     title: "Katsudon"
-  - image_path: /hobbies/keyboard.jpg
+  - image_path: /hobbies/keyboard.webp
     alt: "placeholder image "
     title: "A minimalist keyboard"
+  - image_path: /hobbies/mozza.jpg
+    alt: "placeholder image "
+    title: "Tomato & Mozzarella"
+  - image_path: /hobbies/okono.jpg
+    alt: "placeholder image "
+    title: "Okonomiyaki"
+  - image_path: /hobbies/oysters.jpg
+    alt: "placeholder image "
+    title: "Oysters"
+  - image_path: /hobbies/pasta.jpg
+    alt: "placeholder image "
+    title: "Pastas"
+  - image_path: /hobbies/pastabis.jpg
+    alt: "placeholder image "
+    title: "Pastas (again)"
+  - image_path: /hobbies/pen.jpg
+    alt: "placeholder image "
+    title: "A fountain pen"
+  - image_path: /hobbies/pilotis.jpg
+    alt: "placeholder image "
+    title: "Some house"
+  - image_path: /hobbies/pizza.jpg
+    alt: "placeholder image "
+    title: "Pizza"
+  - image_path: /hobbies/ragu.jpg
+    alt: "placeholder image "
+    title: "Duck ràgu"
+  - image_path: /hobbies/risotto.jpg
+    alt: "placeholder image "
+    title: "Risotto"
+  - image_path: /hobbies/sake.jpg
+    alt: "placeholder image "
+    title: "Homemade sake"
+  - image_path: /hobbies/sushi.jpg
+    alt: "placeholder image "
+    title: "Sushis"
+  - image_path: /hobbies/tzatziki.jpg
+    alt: "placeholder image "
+    title: "Tzatziki"
+  - image_path: /hobbies/wellington.jpg
+    alt: "placeholder image "
+    title: "Beef Wellington"
+	
 
 ---
 
