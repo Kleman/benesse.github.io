@@ -67,9 +67,6 @@ gallery:
   - image_path: /hobbies/wellington.jpg
     alt: "placeholder image "
     title: "Beef Wellington"
-  - image_path: /hobbies/brunch.jpg
-    alt: "placeholder image "
-    title: "Brunch"
   - image_path: /hobbies/aquarelle.jpg
     alt: "placeholder image "
     title: "Watercolors"
