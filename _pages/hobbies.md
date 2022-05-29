@@ -7,12 +7,12 @@ redirect_from:
   - /hobbies
   
 gallery:
-  - url: /images/hobbies/aquarelle.jpg
+  - url: /images/profile_picture_oiled.jpg
     image_path: /images/hobbies/aquarelle.jpg
     alt: "placeholder image "
     title: "Watercolors"
   - url: /images/hobbies/brunch.jpg
-    image_path: /images/hobbies/brunch.jpg
+    image_path: /images/profile_picture_oiled.jpg
     alt: "placeholder image "
     title: "Brunch"
   - url: /images/hobbies/chair.jpg
@@ -38,7 +38,7 @@ gallery:
   - url: /images/hobbies/keyboard.jpg
     image_path: /images/hobbies/keyboard.jpg
     alt: "placeholder image "
-    title: "My minimalist keyboard"
+    title: "A minimalist keyboard"
 
 ---
 
