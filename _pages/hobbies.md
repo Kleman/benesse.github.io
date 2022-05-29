@@ -37,9 +37,6 @@ gallery:
   - image_path: /hobbies/oysters.jpg
     alt: "placeholder image "
     title: "Oysters"
-  - image_path: /hobbies/pasta.jpg
-    alt: "placeholder image "
-    title: "Pastas"
   - image_path: /hobbies/katsudon.jpg
     alt: "placeholder image "
     title: "Katsudon"
