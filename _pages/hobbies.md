@@ -7,11 +7,11 @@ redirect_from:
   - /hobbies
   
 gallery:
-  - image_path: https://kleman.github.io/images/hobbies/aquarelle.jpg
+  - image_path: /hobbies/aquarelle.jpg
     alt: "placeholder image "
     title: "Watercolors"
-  - url: /images/hobbies/brunch.jpg
-    image_path: /images/profile_picture_oiled.jpg
+  - url: /hobbies/brunch.jpg
+    image_path: /profile_picture_oiled.jpg
     alt: "placeholder image "
     title: "Brunch"
   - url: /images/hobbies/chair.jpg
