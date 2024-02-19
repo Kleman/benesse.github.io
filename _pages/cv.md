@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You may find my Curriculum Vitæ [here](https://kleman.github.io/files/Curriculum_Vitae_English.pdf).
+You may find my Curriculum Vitæ [here (EN)](https://kleman.github.io/files/Curriculum_Vitae_EN.pdf) or [here (FR)](https://kleman.github.io/files/Curriculum_Vitae_French.pdf) -- last update: 19/02/2024.
