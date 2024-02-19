@@ -14,6 +14,10 @@ author_profile: true
 
 Complete list coming soon.
 
++ [Summer School "Droit de l’intelligence artificielle"](https://chaireia.openum.ca/2023/03/24/colloque-vers-un-droit-de-lia-perspectives-comparees/)  
+Date: 15 - 26 May 2023  
+Location: Ottawa, CA.
+
 + [Séminaire de Recherche, Université de Franche-Comté](https://www.univ-fcomte.fr/)  
 Date: 6 February 2023  
 Location: Besançon, FR.
