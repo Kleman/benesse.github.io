@@ -69,7 +69,7 @@ gallery:
     title: "Watercolors"
 ---
 
-You may find here some pictures related to hobbies (mainly food, let’s be honest).
+You may find here some pictures related to hobbies (it’s mainly food, let’s be honest).
 
 
 
